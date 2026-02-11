@@ -1,0 +1,138 @@
+"The Sewers
+(Act 1)","","","","","","","The Junkyard
+(Act 1)","","","","","","","The Crater
+(Act 2)","","","","","","","The Bunker
+(Act 2)","","","","","","","Ruins/Swamp?","","","","","",""
+"","Boris
+Cat
+(200 Health)(2 Mvmt)
+ 3 Bonus Turns
+2x2 Unit
+Trample
+When Damaged, he will move 1 Tile towards the direction the Damage came from.
+(Counterattacks do not make him do his move reaction, while not on his turn.)
+
+ On his final turn in a round he will always use his Trample Dash Ability.","","","","","","","Chubs
+(140 Health)(3 Mvmt)
+Blind
+Shoots a Poison Shot when Damaged.
+Does a Melee Spin Attack.
+
+
+
+
+
+Nubs
+(100 Health)(1 Mvmt)
+Blind
+Lobs a Creep Shot when Damaged. 
+Does a Leap Attack with Knockback.
+
+
+
+
+
+
+If either die, the one still alive will enter an enraged state.","","","","","","","Crater Maker
+(280 Health)(? Mvmt)
+1 Bonus Turn
+3x3 unit. ","","","","","","","","","","","","","","","","","","",""
+"","","Move Reaction
+When Damaged will move 1 Tile towards what caused the Damage.","Trample Dash
+Gains Trample 8, then dashes in a straight line until he collides with the edge of the map or Immovable object. ","","","","","","Chubs' Shoot Nail Reaction
+When Chubs takes Damage, he shoots a 6 Damage Ranged Attack, that inflicts Poison 2, 5 Tile range.","Chub Spin
+Deal 5 Melee Damage in a 3x3 Tile AOE with this unit at the center.
+
+Enraged State
+Spins twice on the same Tile.","","","","Crater Maker","","Chomp?
+Attacks the tile directly in front of it's mouth. Deals 99999 Melee Damage to a unit, instantly killing it.?","Roar?
+Deal 10 Damage to all other units.?","?
+Shoots Random ranged projectiles out of its body.?","","","","","","","","","","","","","","","",""
+"Boris","","","","","","","Chubs
+&
+Nubs","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","","","","","","","","","Nubs' Creep Shot Reaction
+When Nubs takes Damage, he shoots a 4 Damage Lobbed Attack that hits the 3rd Tile in front of Nubs and places Creep.","Nub Flub
+4 Damage Leap Attack, has a 1 Tile Circle AOE, 2 Tile Range, cannot target adjacent Tiles.
+","Nuke
+Only when Enraged
+Queues this Spell, on his next turn he will Self Destruct dealing ? Damage to all Tiles effected.
+(This Kills him, ending the fight.)","","","","","","","","","","","","","","","","","","","","","","",""
+"Mini-Bosses","","","","","","","Mini-Bosses","","","","","","","Mini-Bosses","","","","","","","Mini-Bosses","","","","","","","Mini-Bosses","","","","","",""
+"","Flushmaster
+Poop, Water
+(115 Health)(6 Mvmt)
+Teleports to move.
+Spawns a Dip when they die.
+The map has many Indestructible and Immoveable objects, especially Spiked Rocks. Uses their Flush Ability to push all your Cats in the direction it's looking, trying to knock them into an object and deal Collision Damage to them.","","","","","","","Trampy
+(99 Health)(3 Mvmt)
+3 Bonus Turns
+Drunk
+20% Miss Chance
+
+Does a series of seemingly random things, but not in a random order!
+
+After doing all his moves, he will always repeat them in the same order.","","","","","","","Rocky Bobo
+(? Health)(? Mvmt)
+2 Bonus Turns
+Has head trauma...","","","","","","","?","","","","","","","","","","","",""
+"Flushmaster","","Flush
+Causes a wave to go across the map within the direction they are facing. The wave does 0 Damage but will Knockback units 10 Tiles.","","","","","","","Rest
+Heal 15 HP but gain Sleep 3.","Loogie
+5 Damage Ranged Attack, 3 Tile range that cannot target adjacent Tiles .","Dump
+Create a Poop on an adjacent tile. Pooping on a unit inflicts Poison 2.","Wind Up Punch
+5 Melee Damage.","","Rocky Bobo","","Rock Song
+Music Element
+Causes all Rocks on the field to move in a straight line towards units.","","","","","?
+(Most likely a Mini-Boss)","","Hug?
+Hugs a unit dealing damage to it.","","","","","","","","","","",""
+"","Rat King
+Rat
+(100 Health)(2 Mvmt)
+Trample
+Spawns with a Pinky.
+Spawns Lil' Rats and Pinkies, will throw adjacent units.
+
+Has 3 rats in their back, dealing Damage to him will eventually kill the rats that are in him. Making him go into an enraged state at around <70 HP, gaining +3 Damage Up, +2 Spd, and +1 Brace. ","","","","","","Trampy","","","","","","","","?
+(? Health)(? Mvmt)
+1 Bonus Turns
+Plant on its head is the actual boss and the bodies are just hosts.?","","","","","","","","","","","","","","","","","","",""
+"Rat King","","Spawn Rats
+Spawns 2 Lil' Rats.
+
+Spawns Pinkys, Poop and Dip in a Random combination when in Enraged state.","Toss
+Lob an adjacent unit to any Tile, 5? Tile range. Lobbed unit and what it hits takes 6 Collision Damage. ","Dash
+Goes in an infinite range straight line dealing 10 Damage to units it hits and Knockback 2?.","","","","","Spawn Fleas
+Spawn 2 Fleas in adjacent Tiles.","Drink Booze
+Heals 5 HP, gains +20% Crit Chance, +20% Dodge Chance, +1 Damage Up, and +1 Spd.  
+Then throws the bottle dealing 5 Ranged Damage, 4 Tile range.","","","","?
+","","","","","","","","","","","","","","","","","","","",""
+"","Frostbiter
+Poop, Ice
+(200 Health)(4 Mvmt)
+Has only 2 Bonus Turns.
+Slows and Knocks back units.
+Freezes adjacent units.
+
+
+(Replaces Flushmaster when Flushmaster would be Permanently Frozen, from some effect.)
+","","","","","","","Can Creeper
+(40 Health)(3 Mvmt)
+1 Bonus Turn
+Immune to Creep
+Leaves Creep on Tiles it moves off
+Can only be Damaged from the front. Attacks that hit the sides or back are blocked, dealing 0 Damage but will Knockback in the direction the attack came from.
+
+Will lose its protective trashcan at 0 Health turning into...
+
+Can Creeper
+(20 Health)(5 Mvmt)
+1 Bonus Turn
+Immune to Creep
+Must be in Creep to Attack.
+Ranged Attacker.","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Frostbiter
+(Alternative Flushmaster)
+","","","","","","","Can Creeper","","Slide
+Moves forward 6 Tiles leaving Creep and a Fly behind.","Diagonal Shots
+Shoots 2 diagonal shots dealing 5 Damage, infinite range.","","","","","","","","","","","","","","","","","","","","","","","",""

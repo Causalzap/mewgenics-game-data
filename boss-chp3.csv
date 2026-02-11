@@ -1,0 +1,83 @@
+"The Caves
+(Act 1)","","","","","","","The Boneyard
+(Act 1)","","","","","","","The Core
+(Act 2)","","","","","","","The Moon
+(Act 2)","","","","","","The Flesh?","","","","","","?","","","",""
+"","Spinnerette
+(250 Health)(3 Mvmt)
+2x2 Unit
+2 Bonus Turns
+Trample
+Enrages when hit from behind, will also Web anything behind her when hit.
+
+Each time she is Damaged she has a High Chance to spawn a Spiderling in an adjacent Tile.
+
+Randomly goes off the board at the end of one of her turns.Won't return until you kill the Spider Kitten she spawns or she spawns 2 Spider Kittens.
+
+Starts battle off the board, with a single Spider Kitten being the only unit present. Killing the Spider Kitten, spawns Spinnerette behind/next to the unit that killed the Spider Kitten.
+
+Enraged: Gains +2 Mvmt. Doesn't move off board. Calms down at the end of her last turn next round.
+ ","","","","","","","Dybbuk
+Cat, Undead?
+(85 Health)(3 Mvmt)
+Can Backflip to Dodge Attacks. Will get revenge on the unit who kills it... 
+
+
+Has about half the board taken up by Static Objects.","","","","","","","Tormentor
+Demon?
+(380 Health)(? Mvmt)
+1 Bonus Turn?
+2x2 unit. Has 5 Candle Objects in it's boss arena. Each Candle Object has a symbol for a Status Effect above it.The same symbols for the status effects can also be found on certain body parts of the boss. (Perhaps they are associated with what moves the boss can use?) 
+
+Has an enraged state. (May enter it after The Coven dies.?)","","","","","","","","","","","","","?
+(? Health)(? Mvmt)
+Is a 2x2 unit.","","","","","","","","",""
+"","","Bite
+10 Damage Melee Attack.","Web
+Lobs Webs in an X Shape AOE(5 Tiles total), leaves Webs on the ground and inflicts Webbed to units hit, 5 Tile range. ","Spawn Spiderlings
+Lob 2 Spiderlings Randomly in an X shape AOE(5 Tiles total), 3 Tile range.
+","Spider Spawn
+Only uses this Ability if off board.
+Does this on her next turn after she goes off the board
+Spawn a Spider Kitten on any open Tile.","","Dybbuk","","Mana Lick
+5 Melee Damage, drains All? Mana, and applies -1 Int Down.","","","","","Tormentor","","Open Maw?
+Suck in units and objects in front of it. Then eat them? Can also eat the Candle Objects found in the arena.","","","","","","","","","","","?","","Summon Meat Tentacles?
+Summon many Meaty Tentacles? around the map. (Not sure what they do.)","","","","","","","",""
+"Spinnerette","","","","","","","","","","","","","","","The Coven
+?
+(300 Health)(? Mvmt)
+1 Bonus Turn
+Brace 4?
+Is part of the Tormentor fight. Seems to summon the Tormentor. Summons Tormentor on round 3?
+","","","","","","","","","","","","","","","","","","","","","",""
+"","",""," ","","","","","","","","","","","The Coven","","","","","","","","","","","","","","","","","","","","","","",""
+"Mini-Bosses","","","","","","","Mini-Bosses","","","","","","","Mini-Bosses","","","","","","","","","","","","","","","","","","","","","","",""
+"","Big Slime
+Corpseless
+(64 Health)(4 Mvmt)
+1 Bonus Turn
+Trample
+On Death splits into 4 Medium Slime units.
+
+• 10 Damage Melee Attack.
+
+
+
+
+
+(First boss ever implement)","","","","","","","Mama Maggot
+(125 Health)(3 Mvmt)
+2 Bonus Turns
+2x2 Unit
+Trample
+Spawns Maggots, evolves them and gives them Bonus Turns.","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Big Slime","","Medium Slime
+Corpseless
+(16 Health)(3 Mvmt)
+• 5 Damage Melee Attack.
+On Death splits into 4 Small Slime units. 
+(Will not spawn a Small Slime if there is no room to, can place them within a 2 Tile range on an empty tile, cannot path through allied units.?)","Small Slime
+Corpseless
+(4 Health)(2 Mvmt)
+• 2 Damage Melee Attack.","","","","Mama
+Maggot","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""

@@ -1,0 +1,120 @@
+"The Alley
+(Act 1)","","","","","","","","","The Desert
+(Act 2)","","","","","","","","","The Labs
+(Act 3)","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","Radical Rat
+Rat
+(66 Health)(5 Mvmt)
+2 Bonus Turns
+Uses his 2 Bonus Turns to throw Rat Bombs. On his final turn he will Turtle, becoming Invincible. After using Turtle he will detonate all his lit Rat Bombs.","","","","","","","","","Zodiac
+(50 Health)(4 Mvmt)
+Has a gun that he uses to shoot anything that moves. After firing 6 shots he will be out of bullets and on his next shot will realize he is out. On his next turn he will move and reload his revolver with 6 more bullets. All objects in the battle are Destructible making the fight harder the longer you take.
+?(Might be a mini-boss)
+Zodiac Fight(Old)","","","?","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Radical
+Rat","","Spawn Bomb
+Throws a Rat Bomb that is in line with a cat. Rat Bombs are thrown lit and have a delayed explosion. Rat Bombs have 1HP, are Fire and Explosive element and will deal 10 Damage if caught in the explosion, 5 Tile range.
+(Rat Bomb's explode in straight perpendicular lines, with infinite range.)","Turtle
+Hide in a trash can that protects from Damage. Then detonate all lit Rat Bombs. Coming out of Turtle deals Knockback 1? to all adjacent units.","Alternative Spawn Bomb
+(Will only perform this ability when weather/global effects make it so that his bombs will always be defused instantly after being tossed out.)
+Will throw the Rat Bomb at a cat that is within a 5 Tile range dealing 5 Damage and the Rat Bomb lands in an adjacent tile.","","","","","Zodiac","","Single Shot
+Shoots anything that moves as long as he has ammo. Dealing 7 Ranged Damage.","Reload
+After trying to shoot he realizes he is out of ammo and will move to a Tile farther away from the Player's Party of Cats, in order to reload his revolver with 6 shots. This takes up his entire turn.
+","Crazy Shot?
+Does a crazed look before pulling out a second revolver and shooting 6 shots in random directions.?","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","Queen Hippo
+(80 Health)(1 Mvmt)
+2 Bonus Turns
+4 Brace
+Uppercuts any adjacent units at the start of thier turn.
+
+-1 Brace and +1 Mvmt at the end of each round.
+
+Has heart problems...
+Has a heart attack and Dies at the end of round 4.
+
+(Unlocks after defeating Radical Rat 3 times.)","","","","","","","","","Dust Devil
+(73 Health)
+"," ","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Queen
+Hippo","","Jab
+Deals 4 Melee Damage inflicting Bruise and has Chain Knockback 3.","Uppercut
+If any unit is adjacent when starting their turn they uppercut them dealing 4 Melee Damage and lobbing the unit back 2 tiles.","","","","","","Dust Devil
+(Could be Mini-boss)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Mini-Bosses","","","","","","","","","Mini-Bosses","","","","","","","","","Mini-Bosses","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","Lucy
+Cat
+(75 Health)(4 Mvmt)
+1 Bonus Turn
+Cycles through 3 AOE Magic Abilities that each take a turn to cast. Uses their Bonus Turn to cast her Delayed Abilities within the same Round. ","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Lucy
+The Mage","","MC Blizz
+(Wind)(Ice)
+Cast a 5 Tile diameter AOE spell originating from the caster. Knockbacks and Freezes all units caught in the AOE as well as Knockback all moveable objects away from the center of the AOE. 
+","MC Flamethrower
+(Fire)
+Cast a 4 Tile cone AOE spell in front of the caster. Deals 3 Damage and inflicts Burn 3, lighting flammable objects on fire. This can be cast through immovable objects and without line of sight.","MC Thunder
+(Electric)
+Cast a infinite range(?) X shaped AOE that travels diagonally, originating from the caster. Deal 3 Damage and has Chance to Stun.","","","","","?","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","Magnus
+Cat
+(70 Health)(2 Mvmt)
+1 Bonus Turn
+Has a chain dash and spin attack that hits all adjacent units. Wants your cats to stay together or to stay close to him. ","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Magnus
+The Fighter","","Chain Dash
+Dashes in a straight line with infinite range. Hitting a unit will deal 5 Melee Damage and will allow him to dash again. This can be repeated as long as he can hit a unit after each dash.","Spin
+Hit everything adjacent to you 3 times, dealing Low Damage(1-2).","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","Fenrir
+Cat
+(60 Health)(4 Mvmt)
+4 Bonus Turns
+Uses the Tall Grass on the map to gain +50% Dodge Chance. Throws out bear traps that turn invisible to the player on his Bonus Turns. Whenever a unit hits him while adjacent to him, he will push them 2 Tiles back. Has a 5 Damage Ranged Attack, 5 Tile range, cannot target within 2 Tiles of themselves.  ","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Fenrir
+The Hunter","","Bear Trap
+Throw out a bear trap that turns invisible to the player, 5 Tile range.
+Throws these on Bonus Turns only.","Hunter Basic Attack
+5 Damage Ranged Attack, 5 Tile range, cannot target within 2 Tiles of yourself.  ","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","Maisie
+Cat
+(98 Health)(5 Mvmt)
+1 Bonus Turn
+Battles alongside 5 Kittens.
+
+Any Kittens left after she dies will Run off board.
+If all the Kittens die, Maisie will Run off Board.","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Maisie
+The Tank","","Strength Lick Buff
+Apply +1 Str to an adjacent unit and Heal 1HP.","Body Guard Passive
+The next time an ally is targeted by an enemy, switch places with that ally. 
+Will do this whenever her Kittens are targeted.","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","Dack
+Cat
+(? Health)(? Mvmt)
+May have a focus on stealing your Coins and then leaving battle before you can defeat him and take them back.?","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Dack
+The Thief","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","Marshmallow?
+Cat
+(? Health)(? Mvmt)
+?
+","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Marshmallow?
+The Cleric","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","Pebbles
+Cat
+(50 Health)(2 Armor?)(4 Mvmt)
+1 Bonus Turn
+Their Melee Attack deals 2 Damage and knocks units backwards.
+Can throw rocks.
+(Is located in the tutorial, may or may not also be in The Alley.)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Pebbles
+The Collarless
+(Tutorial Boss)","","Push
+Deals 2 Melee Damage and Knockback 1?. 2 Tile Range, can go perpendicular or diagonal.","Throw Rock?
+?","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"","Bumble
+(? Health)(? Mvmt)
+Has an AOE ability that devours units whole.?","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"Bumble
+(Idk could be boss or mini-boss, and may be in Boneyard?)","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
